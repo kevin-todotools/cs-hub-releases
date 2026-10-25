@@ -1,6 +1,6 @@
 {
-  "version": "0.4.4",
-  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.4.tar.gz",
-  "sha256": "bb754bd3c8faabf2713261207498b788f87f49265fb499e5aeba36c3ff440096",
-  "notes": "0.4.4：頁面不快取；遠端自動更新改走 GitHub。"
+  "version": "0.4.5",
+  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.5.tar.gz",
+  "sha256": "e7884d0daebef5da1ad98a6c936749db82d0c1248d425d25c18a86e182f90662",
+  "notes": "0.4.5：串接 BH 真實訂單狀態（AI 回覆前自動查、客服側欄查單、設定頁測試連線）。"
 }
