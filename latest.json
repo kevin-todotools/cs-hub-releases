@@ -1,6 +1,6 @@
 {
-  "version": "0.4.5",
-  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.5.tar.gz",
-  "sha256": "e7884d0daebef5da1ad98a6c936749db82d0c1248d425d25c18a86e182f90662",
-  "notes": "0.4.5：串接 BH 真實訂單狀態（AI 回覆前自動查、客服側欄查單、設定頁測試連線）。"
+  "version": "0.4.6",
+  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.6.tar.gz",
+  "sha256": "ada9151a4fda3dea45d8d67fd8c9ea73a835693dc78a17d455da4817d0ff7573",
+  "notes": "0.4.6：手機版工作台（清單／對話／資料一次一面）；儀表板加遺漏回覆、處理時間、時段分析、CSV 匯出。"
 }
