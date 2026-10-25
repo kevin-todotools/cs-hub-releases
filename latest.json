@@ -1,0 +1,6 @@
+{
+  "version": "0.4.4",
+  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.4.tar.gz",
+  "sha256": "bb754bd3c8faabf2713261207498b788f87f49265fb499e5aeba36c3ff440096",
+  "notes": "0.4.4：頁面不快取；遠端自動更新改走 GitHub。"
+}
