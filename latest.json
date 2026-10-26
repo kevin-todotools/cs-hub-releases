@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
-  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.6.tar.gz",
-  "sha256": "ada9151a4fda3dea45d8d67fd8c9ea73a835693dc78a17d455da4817d0ff7573",
-  "notes": "0.4.6：手機版工作台（清單／對話／資料一次一面）；儀表板加遺漏回覆、處理時間、時段分析、CSV 匯出。"
+  "version": "0.4.7",
+  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.7.tar.gz",
+  "sha256": "4c5503160ace9d0d32fd1612b454d1d9439c4f463f852c0b035e625c215141ce",
+  "notes": "0.4.7：略過系統訊息（官網綁定 LINE 的 6 碼驗證碼不再當訂單編號）；可自訂略過規則。"
 }
