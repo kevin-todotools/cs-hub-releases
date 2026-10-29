@@ -1,6 +1,6 @@
 {
-  "version": "0.4.7",
-  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.7.tar.gz",
-  "sha256": "4c5503160ace9d0d32fd1612b454d1d9439c4f463f852c0b035e625c215141ce",
-  "notes": "0.4.7：略過系統訊息（官網綁定 LINE 的 6 碼驗證碼不再當訂單編號）；可自訂略過規則。"
+  "version": "0.4.8",
+  "url": "https://raw.githubusercontent.com/kevin-todotools/cs-hub-releases/main/releases/CS_Hub_v0.4.8.tar.gz",
+  "sha256": "bf352d748cc076d9d17174a2687bb0227427a78a499662639a25df43bba80381",
+  "notes": "0.4.8：知識萃取——AI 讀客服實際回覆整理成待確認知識，主管確認／跟 AI 討論後入庫；可匯入 Omnichat 對話紀錄。"
 }
